@@ -31,6 +31,7 @@ export function setupAngularRoutes($routeProvider: route.IRouteProvider, $locati
       pageClass: 'page-explore',
       routeInfo: DashboardRouteInfo.Home,
       reloadOnSearch: false,
+      redirectTo: '/dashboards',
       resolve: {
         component: importDashboardPage,
       },
