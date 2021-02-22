@@ -125,3 +125,6 @@ compilation-stats.json
 
 # auto generated frontend docs
 /docs/sources/packages_api
+
+# auto generated scss files
+*.generated.scss
