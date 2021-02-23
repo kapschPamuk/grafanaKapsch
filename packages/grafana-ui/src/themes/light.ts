@@ -27,7 +27,7 @@ const basicColors = {
   greenBase: '#3eb15b',
   greenShade: '#369b4f',
   red: '#d44939',
-  yellow: '#ff851b',
+  yellow: '#fbff07',
   purple: '#9954bb',
   orange: '#ff7941',
   orangeDark: '#ed5700',

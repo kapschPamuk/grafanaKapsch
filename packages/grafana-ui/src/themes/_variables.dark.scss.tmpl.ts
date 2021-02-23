@@ -242,13 +242,13 @@ $navbarBorder: 1px solid $dark-6;
 
 // Sidemenu
 // -------------------------
-$side-menu-bg: $panel-bg;
+$side-menu-bg: ${theme.palette.yellow};
 $side-menu-bg-mobile: $panel-bg;
 $side-menu-border: none;
-$side-menu-item-hover-bg: ${theme.colors.bg2};
+$side-menu-item-hover-bg:  ${theme.palette.yellow};
 $side-menu-shadow: 0 0 20px black;
-$side-menu-icon-color: ${theme.palette.gray70};
-$side-menu-header-color: ${theme.colors.text};
+$side-menu-icon-color: ${theme.palette.black};
+$side-menu-header-color:  ${theme.palette.black};
 
 // Menu dropdowns
 // -------------------------
